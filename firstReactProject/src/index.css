@@ -1,0 +1,17 @@
+.head {
+  color: red;
+}
+
+.headerParent {
+  background-color: black;
+  height: 50px;
+}
+.header {
+  background-color: aqua;
+  height: 50%;
+}
+
+.img1{
+  width: 100px;
+  height: 100px;
+}

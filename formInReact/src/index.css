@@ -1,0 +1,12 @@
+/*  */
+
+.f-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.d-center {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}

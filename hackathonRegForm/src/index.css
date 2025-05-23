@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.onHoverUnderline {
+  position: relative;
+  /* cursor: pointer; */
+}
+.onHoverUnderline::after {
+  align-items: center;
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  border-radius: 25px;
+  background-color: black;
+  transform: scaleX(0);
+  transition: transform 0.3s linear;
+}
+
+.onHoverUnderline:hover::after {
+  transform: scaleX(1);
+}

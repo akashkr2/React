@@ -1,0 +1,25 @@
+{
+  "genders": [
+    { "id": 1, "label": "Male", "value": "male" },
+    { "id": 2, "label": "Female", "value": "female" },
+    { "id": 3, "label": "Non-binary", "value": "non_binary" },
+    { "id": 4, "label": "Transgender Male", "value": "transgender_male" },
+    { "id": 5, "label": "Transgender Female", "value": "transgender_female" },
+    { "id": 6, "label": "Transgender", "value": "transgender" },
+    { "id": 7, "label": "Genderqueer", "value": "genderqueer" },
+    { "id": 8, "label": "Genderfluid", "value": "genderfluid" },
+    { "id": 9, "label": "Agender", "value": "agender" },
+    { "id": 10, "label": "Bigender", "value": "bigender" },
+    { "id": 11, "label": "Two-Spirit", "value": "two_spirit" },
+    { "id": 12, "label": "Intersex", "value": "intersex" },
+    { "id": 13, "label": "Androgynous", "value": "androgynous" },
+    { "id": 14, "label": "Demiboy", "value": "demib oy" },
+    { "id": 15, "label": "Demigirl", "value": "demigirl" },
+    { "id": 16, "label": "Neutrois", "value": "neutrois" },
+    { "id": 17, "label": "Pangender", "value": "pangender" },
+    { "id": 18, "label": "Polygender", "value": "polygender" },
+    { "id": 19, "label": "Third Gender", "value": "third_gender" },
+    { "id": 20, "label": "Other", "value": "other" },
+    { "id": 21, "label": "Prefer not to say", "value": "prefer_not_to_say" }
+  ]
+}

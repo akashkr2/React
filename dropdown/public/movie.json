@@ -1,0 +1,50 @@
+{
+  "type": [
+    "Feature Film",
+    "Short Film",
+    "Documentary",
+    "Animated",
+    "TV Movie",
+    "Web Series",
+    "Mini-Series",
+    "Experimental",
+    "Anthology",
+    "Biopic"
+  ],
+  "language": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Korean",
+    "Mandarin",
+    "German",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Bengali",
+    "Marathi"
+  ],
+  "genre": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Fantasy",
+    "Historical",
+    "Horror",
+    "Mystery",
+    "Romance",
+    "Sci-Fi",
+    "Thriller",
+    "War",
+    "Western",
+    "Animation",
+    "Family",
+    "Musical",
+    "Sport",
+    "Superhero"
+  ]
+}
